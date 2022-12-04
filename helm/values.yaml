@@ -8,7 +8,7 @@ image:
   repository: mtweeman/hajle-silesia_file-content-converter
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 2022-12-03t19-50-33z-master-0f32601
+  tag: 2022-12-04t18-08-57z-order-fb688ca
 
 imagePullSecrets: []
 nameOverride: ""
